@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+l’m Paulo,
+graduated in Information Systems, focusing on backend development with Java and Spring. I'm proactive, I'm easy to work in a team and I like to exchange knowledge with more experienced people; I also love to teach others when possible.
+  My hobbies are reading books, studying new technologies and playing the guitar.
+
+  I'm a junior back-end developer whose main knowledge of: Java with Spring, PostgreSQL, and a little bit of Angular.
+
+### 💻 Technologies & Tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <!--
 **PauloMarchon/PauloMarchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
